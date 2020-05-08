@@ -19,7 +19,7 @@
 - <font size='3px'>etc.</font>
 
 ## Patents
-<font size='3px'>A method for measuring pore radius in a scanning electron microscope image of a porous material - CN111024581A Patent Pending.</font>
+<font size='3px'>A Method for Measuring Pore Radius in A Scanning Electron Microscope Image of Porous Materials - CN111024581A Patent Pending.</font>
 
 ## Grants
 <font size='3px'>Scholarship for Academic Innovation and Technology Competition, Shaanxi University of Science and Technology, 2018.</font><br>

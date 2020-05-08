@@ -19,10 +19,10 @@
 - <font size='3px'>etc.</font>
 
 ## Patents
-<font size='3px'>A method for measuring pore radius in a scanning electron microscope image of a porous material. - CN111024581A Patent Pending</font>
+<font size='3px'>A method for measuring pore radius in a scanning electron microscope image of a porous material - CN111024581A Patent Pending.</font>
 
 ## Grants
-<font size='3px'>Scholarship for Academic Innovation and Technology Competition, Shaanxi University of Science and Technology, 2018.</font>
+<font size='3px'>Scholarship for Academic Innovation and Technology Competition, Shaanxi University of Science and Technology, 2018.</font><br>
 <font size='3px'>Tactile Perception Brain Function Topology Analysis Platform, National Training Program of Innovation and Entrepreneurship for Undergraduates, 2019-2020.</font>
 
 
@@ -36,8 +36,6 @@ Magnetic Resonance Imaging (fMRI)</b></font>
 - <font size='3px'>The project is a collaboration between Dr. Qi Yong and Xijing Hospital in Xi’an. This project performs a universal topological analysis of the functional activation regions of the tactile stimuli of the human brain, and aims to find the mapping relationship between human skin tactile sensors and the brain.</font>
 - <font size='3px'>This project has been selected as 2019 National Training Program of Innovation and Entrepreneurship for Undergraduates, and received national project funding. </font>
 - <font size='3px'>I am the team leader of this project group, and is responsible for the research and optimization of deep learning algorithms. Based on this project, I proposed a method using weighted heat maps to visualize the brain activation area, and used methods such as Gradient-weighted Class Activation Mapping (Grad-CAM) to improve the interpretability of the algorithm.</font>
-
-[![](http://www.winsoul.icu/wp-content/uploads/2020/04/wp_editor_md_0366762ae8f3e83c6070df5f883cf4c0.jpg)](http://www.winsoul.icu/wp-content/uploads/2020/04/wp_editor_md_0366762ae8f3e83c6070df5f883cf4c0.jpg)
 
 ---
 <font size='4px'><b>Crystal Material Growth Quality Analysis Method Based on SEM Image</b></font>

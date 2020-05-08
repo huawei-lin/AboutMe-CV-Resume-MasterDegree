@@ -18,6 +18,13 @@
 - <font size='3px'><b>ACM-ICPC National Invitational Programming Contest, Bronze Medal, <i>May 2019</i></b></font>
 - <font size='3px'>etc.</font>
 
+## Patents
+<font size='3px'>A method for measuring pore radius in a scanning electron microscope image of a porous material. - CN111024581A Patent Pending</font>
+
+## Grants
+<font size='3px'>Scholarship for Academic Innovation and Technology Competition, Shaanxi University of Science and Technology, 2018.</font>
+<font size='3px'>Tactile Perception Brain Function Topology Analysis Platform, National Training Program of Innovation and Entrepreneurship for Undergraduates, 2019-2020.</font>
+
 
 ## Projects
 <font size='5px'>Institute of Artificial Intelligence, SUST, China, <i>September 2017 - Present</i></font>
@@ -58,8 +65,7 @@ calculation. Based on the problem of key point connection, I designed algorithms
 - <font size='3px'>It is a platform for 3D modeling of a single-slewing body image independently developed by our research institute. Its core algorithm only needs to input a single-turn image to perform 3D reconstruction. This project won the national third prize in the 2019 Chinese University Computer Design Competition and has been applied in the field of ceramic cultural relics restoration.</font>
 - <font size='3px'>I am responsible for data preprocessing in the team. I propose a method for extracting the foreground of the image.</font>
 
-## Patents
-A method for measuring pore radius in a scanning electron microscope image of a porous material. - CN111024581A Patent Pending
+
 
 
 ## CV & RESUME

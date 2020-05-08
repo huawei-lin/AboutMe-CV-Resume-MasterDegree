@@ -23,7 +23,7 @@
 
 ## Grants
 <font size='3px'>Scholarship for Academic Innovation and Technology Competition, Shaanxi University of Science and Technology, 2018.</font><br>
-<font size='3px'>Tactile Perception Brain Function Topology Analysis Platform, National Training Program of Innovation and Entrepreneurship for Undergraduates, 2019-2020.</font>
+<font size='3px'><b>Tactile Perception Brain Function Topology Analysis Platform, National Training Program of Innovation and Entrepreneurship for Undergraduates, 2019-2020.</b></font>
 
 
 ## Projects

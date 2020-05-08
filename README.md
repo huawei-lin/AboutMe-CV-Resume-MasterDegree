@@ -6,7 +6,7 @@
 <font size='3px'>winsoullin@gmail.com</font><br>
 <br>
 <br>
-<font size='3px'> I am a junior undergraduate in Computer Science. My research interests span Machine Learning, Deep Learning, Computer Vision and Medical Images Processing. I am leading a project funded by 2019 National Training Program of Innovation and Entrepreneurship for Undergraduates. Besides, I have received 4 national awards and 4 provincial awards during undergraduate period, including ACM-ICPC Asia Bronze Medal.</font>
+<font size='3px'> I am a <b>junior undergraduate</b> in Computer Science. My research interests span Machine Learning, Deep Learning, Computer Vision and Medical Images Processing. I am leading a project funded by 2019 <b>National</b> Training Program of Innovation and Entrepreneurship for Undergraduates. Besides, I have received <b>4 national awards</b> and 4 provincial awards during undergraduate period, including <b>ACM-ICPC Asia Bronze Medal</b>.</font>
 
 ## HONORS & AWARDS
 - <font size='3px'><b>ACM-ICPC</b> National Invitational Programming Contest, Bronze Medal, <i>May 2019</i></font>

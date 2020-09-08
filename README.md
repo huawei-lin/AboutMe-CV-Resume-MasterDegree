@@ -3,7 +3,7 @@
 <font size='10px'>林华伟</font><br>
 <font size='5px'>Huawei Lin</font><br>
 <font size='3px'>Undergraduate, Junior, <i>2017.9 - 2021.6</i></font><br>
-<font size='3px'>winsoullin@gmail.com</font><br>
+<font size='3px'>huaweilin.cs@gmail.com</font><br>
 <br>
 <br>
 <font size='3px'> I am a <b>junior undergraduate</b> in Computer Science. My research interests span Machine Learning, Deep Learning, Computer Vision and Medical Images Processing. I am the leader of a project funded by 2019 <b>National</b> Training Program of Innovation and Entrepreneurship for Undergraduates. Besides, I have received <b>4 national awards</b> and 4 provincial awards during undergraduate period, including <b>ACM-ICPC Asia Bronze Medal</b>.</font>

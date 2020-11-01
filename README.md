@@ -28,12 +28,14 @@
 <font size='3px'><i>"A Task fMRI Brain Decoding Method Based on Convolutional Neural Network"</i> - CN111681292A Patent Pending.</font>
 
 ## GRANTS
-
 <font size='3pt'>Academic Excellence Scholarship, Shaanxi University of Science and Technology, 2020.</font><br>
 <font size='3px'>Scholarship for Academic Innovation and Technology Competition, Shaanxi University of Science and Technology, 2020.</font><br>
 <font size='3px'>Student Travel Grants, The IAPR/IEEE Winter School on Biometrics, 2020.</font><br>
 <font size='3px'>Tactile Perception Brain Function Topology Analysis Platform, <b>National Training Program of Innovation and Entrepreneurship for Undergraduates</b>, 2019-2020.</font><br>
 <font size='3px'>Scholarship for Academic Innovation and Technology Competition, Shaanxi University of Science and Technology, 2018.</font><br>
+
+## INTERNSHIP EXPERIENCE
+AI-Lab, ByteDance Co.Ltd., Back-end Engineer, 2020.10 - <i>present</i>
 
 
 ## PROJECTS

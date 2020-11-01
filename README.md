@@ -35,11 +35,11 @@
 <font size='3px'>Scholarship for Academic Innovation and Technology Competition, Shaanxi University of Science and Technology, 2018.</font><br>
 
 ## INTERNSHIP EXPERIENCE
-AI-Lab, ByteDance Co.Ltd., Back-end Engineer, 2020.10 - <i>present</i>
+AI-Lab, ByteDance Co.Ltd., Back-end Engineer, 2020.10 - <i>Present</i>
 
 
 ## PROJECTS
-<font size='5px'>Institute of Artificial Intelligence, SUST, China, <i>September 2017 - Present</i></font>
+<font size='5px'>Institute of Artificial Intelligence, SUST, China, <i>2017.9 - Present</i></font>
 
 ---
 <font size='4px'><b>Human Tactile Brain Function Topological Analysis Platform Based on functional

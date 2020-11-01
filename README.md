@@ -35,7 +35,7 @@
 - <font size='3px'>Scholarship for Academic Innovation and Technology Competition, Shaanxi University of Science and Technology, 2018.</font><br>
 
 ## INTERNSHIP EXPERIENCE
-- AI-Lab, ByteDance Co.Ltd., Back-end Engineer, 2020.10 - <i>Present</i>
+- AI-Lab, ByteDance Co.Ltd., Back-end Engineer, <i>2020.10 - Present</i>
 
 
 ## PROJECTS

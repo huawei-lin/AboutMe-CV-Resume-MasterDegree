@@ -11,6 +11,7 @@
 
 
 ## HONORS & AWARDS
+- <font size='3px'><b>ACM-ICPC Shaanxi Province Contest of China, Silver Medal</b>, <i>October 2020</i></font>
 - <font size='3px'><b>ACM-ICPC National Invitational Programming Contest, Bronze Medal</b>, <i>May 2019</i></font>
 - <font size='3px'>China Collegiate Computer Design Competition (Northwest), Third Prize, <i>May 2019</i></font>
 - <font size='3px'><b>ACM-ICPC Asia Regional Contest Jiaozuo Site, Bronze Medal</b>, <i>November 2018</i></font>

@@ -8,7 +8,8 @@
 <br>
 <font size='3px'> I am a <b>senior undergraduate student</b> majoring in Computer Science. My research interests span Machine Learning, Deep Learning, Computer Vision and Medical Images Processing. I am the leader of a project funded by <b>National Ministry of Education of the China</b> for undergraduates in 2019. In my period of undergraduate, I have received an <b>ACM-ICPC Asia Bronze Medal</b> in the ACM-ICPC International Collegiate Programming Contest, and a <b>Silver Medal</b> in the ACM-ICPC Shaanxi Province Contest of China.
 
-
+## PAPERS
+<font size='3px'>A Method for Measuring Pore Radius in Scanning Electron Microscope Image of Porous Materials - CN111024581A Patent Pending.</font>
 
 ## HONORS & AWARDS
 - <font size='3px'>LAN QIAO Collegiate Programming Contest (Shaanxi Province), First Prize, <i>April 2018</i></div></font>
@@ -22,17 +23,17 @@
 - <font size='3px'>Group Programming Ladder Tournament, Third Prize, <i>March, 2018</i></font>
 - <font size='3px'>etc.</font>
 
-## Patents
+## PATENTS
 <font size='3px'>A Method for Measuring Pore Radius in Scanning Electron Microscope Image of Porous Materials - CN111024581A Patent Pending.</font>
 
-## Grants
+## GRANTS
 
 <font size='3px'>Student Travel Grants, The IAPR/IEEE Winter School on Biometrics, 2020.</font><br>
 <font size='3px'>Tactile Perception Brain Function Topology Analysis Platform, <b>National Training Program of Innovation and Entrepreneurship for Undergraduates</b>, 2019-2020.</font><br>
 <font size='3px'>Scholarship for Academic Innovation and Technology Competition, Shaanxi University of Science and Technology, 2018.</font><br>
 
 
-## Projects
+## PROJECTS
 <font size='5px'>Institute of Artificial Intelligence, SUST, China, <i>September 2017 - Present</i></font>
 
 ---

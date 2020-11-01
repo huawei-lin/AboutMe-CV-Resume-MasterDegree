@@ -14,7 +14,7 @@
 ## HONORS & AWARDS
 - <font size='3px'>LAN QIAO Collegiate Programming Contest (Shaanxi Province), First Prize, <i>October 2020</i></div></font>
 - <font size='3px'><b>ACM-ICPC Shaanxi Province Contest of China, Silver Medal</b>, <i>September 2020</i></font>
-- <font size='3px'>China Collegiate Computer Design Competition, Third Prize, <i>June 2020</i></font>
+- <font size='3px'>China Collegiate Computer Design Competition (National Finals), Third Prize, <i>June 2020</i></font>
 - <font size='3px'>China Collegiate Computer Design Competition (Northwest), First Prize, <i>May 2020</i></font>
 - <font size='3px'><b>ACM-ICPC National Invitational Programming Contest, Bronze Medal</b>, <i>May 2019</i></font>
 - <font size='3px'>China Collegiate Computer Design Competition (Northwest), Third Prize, <i>May 2019</i></font>

@@ -6,7 +6,7 @@
 <font size='3px'>huaweilin.cs@gmail.com</font><br>
 <br>
 <br>
-<font size='3px'> I am a <b>senior undergraduate student</b> majoring in Computer Science. My research interests span Machine Learning, Deep Learning, Computer Vision and Medical Images Processing. I am the leader of a project funded by <b>National Ministry of Education of the China</b> Undergraduates in 2019. In my period of undergraduate, I have received an <b>ACM-ICPC Asia Bronze Medal</b> in the ACM-ICPC International Collegiate Programming Contest, and a <b>Silver Medal</b> in the ACM-ICPC Shaanxi Province Contest of China.
+<font size='3px'> I am a <b>senior undergraduate student</b> majoring in Computer Science. My research interests span Machine Learning, Deep Learning, Computer Vision and Medical Images Processing. I am the leader of a project funded by <b>National Ministry of Education of the China</b> for undergraduates in 2019. In my period of undergraduate, I have received an <b>ACM-ICPC Asia Bronze Medal</b> in the ACM-ICPC International Collegiate Programming Contest, and a <b>Silver Medal</b> in the ACM-ICPC Shaanxi Province Contest of China.
 
 
 

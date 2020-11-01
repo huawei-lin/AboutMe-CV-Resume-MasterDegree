@@ -2,11 +2,13 @@
 <br>
 <font size='10px'>林华伟</font><br>
 <font size='5px'>Huawei Lin</font><br>
-<font size='3px'>Undergraduate, Junior, <i>2017.9 - 2021.6</i></font><br>
+<font size='3px'>Undergraduate, Senior, <i>2017.9 - 2021.6</i></font><br>
 <font size='3px'>huaweilin.cs@gmail.com</font><br>
 <br>
 <br>
-<font size='3px'> I am a <b>junior undergraduate</b> in Computer Science. My research interests span Machine Learning, Deep Learning, Computer Vision and Medical Images Processing. I am the leader of a project funded by 2019 <b>National</b> Training Program of Innovation and Entrepreneurship for Undergraduates. Besides, I have received <b>4 national awards</b> and 4 provincial awards during undergraduate period, including <b>ACM-ICPC Asia Bronze Medal</b>.</font>
+<font size='3px'> I am a <b>senior undergraduate student</b> majoring in Computer Science. My research interests span Machine Learning, Deep Learning, Computer Vision and Medical Images Processing. I am the leader of a project funded by <b>National Ministry of Education of the China</b> Undergraduates in 2019. In my period of undergraduate, I have received an <b>ACM-ICPC Asia Bronze Medal</b> in the ACM-ICPC International Collegiate Programming Contest, and a <b>Silver Medal</b> in the ACM-ICPC Shaanxi Province Contest of China.
+
+
 
 ## HONORS & AWARDS
 - <font size='3px'><b>ACM-ICPC National Invitational Programming Contest, Bronze Medal</b>, <i>May 2019</i></font>

@@ -24,7 +24,7 @@
 - <font size='3px'>etc.</font>
 
 ## PATENTS
-<font size='3px'><i>"A Method for Measuring Pore Radius in Scanning Electron Microscope Image of Porous Materials"</i> - CN111024581A Patent Pending.</font>
+<font size='3px'><i>"A Method for Measuring Pore Radius in Scanning Electron Microscope Image of Porous Materials"</i> - CN111024581A Patent Pending.</font><br>
 <font size='3px'><i>"A Task fMRI Brain Decoding Method Based on Convolutional Neural Network"</i> - CN111681292A Patent Pending.</font>
 
 ## GRANTS

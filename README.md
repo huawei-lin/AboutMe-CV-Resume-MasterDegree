@@ -9,7 +9,7 @@
 <font size='3px'> I am a <b>senior undergraduate student</b> majoring in Computer Science. My research interests span Machine Learning, Deep Learning, Computer Vision and Medical Images Processing. I am the leader of a project funded by <b>National Ministry of Education of the China</b> for undergraduates in 2019. In my period of undergraduate, I have received an <b>ACM-ICPC Asia Bronze Medal</b> in the ACM-ICPC International Collegiate Programming Contest, and a <b>Silver Medal</b> in the ACM-ICPC Shaanxi Province Contest of China.
 
 ## PUBLICATIONS
-<font size='3px'><i>"Parameter-free Attention in fMRI Decoding"</i>, IEEE Access, Under Review.</font>
+<font size='3px'>Yong Qi*, <b>Huawei Lin</b>, et al. <i>"Parameter-free Attention in fMRI Decoding"</i>, IEEE Access, 2020, Under Review.</font>
 
 ## HONORS & AWARDS
 - <font size='3px'>LAN QIAO Collegiate Programming Contest (Shaanxi Province), First Prize, <i>April 2018</i></div></font>
